@@ -3,3 +3,4 @@ Line 2
 this is my new kitten feature! meow.
 this new kitten feature! meow 2.
 bug fix
+bug fix 2
